@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544793096 source:/home/melayer-01/C codes/FunctionDemo/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544705279 source:/home/melayer-01/C codes/keywords/main.c
+	<stdio.h>
+	<stdlib.h>
+

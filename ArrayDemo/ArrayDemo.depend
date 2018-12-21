@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544520598 source:/home/melayer-01/C codes/ArrayDemo/main.c
+	<stdio.h>
+	<stdlib.h>
+
